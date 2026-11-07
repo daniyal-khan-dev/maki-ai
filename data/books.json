@@ -1,0 +1,84 @@
+[
+  {
+    "id": "add-maths",
+    "title": "Additional Mathematics",
+    "subject": "maths",
+    "level": "O Level",
+    "chapters": [
+      { "title": "Functions", "notes": "Domain and range, composite functions fg(x), inverse functions f⁻¹(x), modulus functions |f(x)|." },
+      { "title": "Quadratic functions", "notes": "Completing the square, the discriminant b² − 4ac (two, one or no real roots), the quadratic formula x = (−b ± √(b² − 4ac)) ÷ 2a, quadratic inequalities." },
+      { "title": "Indices and surds", "notes": "Laws of indices, simplifying surds like √12 = 2√3, rationalising the denominator." },
+      { "title": "Logarithms", "notes": "log_a(xy) = log_a x + log_a y, change of base, solving aˣ = b with logs, natural log ln and e." },
+      { "title": "Coordinate geometry", "notes": "Gradient m = (y₂ − y₁) ÷ (x₂ − x₁), midpoint, distance between two points, equation of a line y = mx + c, perpendicular gradients multiply to −1." },
+      { "title": "Trigonometry", "notes": "sin, cos, tan of any angle, identities sin²θ + cos²θ = 1 and tan θ = sin θ ÷ cos θ, radians, arc length s = rθ, sector area ½r²θ." },
+      { "title": "Differentiation", "notes": "d/dx of xⁿ is nxⁿ⁻¹, chain, product and quotient rules, gradients of curves, stationary points, rates of change." },
+      { "title": "Integration", "notes": "Integration as the reverse of differentiation, ∫xⁿ dx = xⁿ⁺¹ ÷ (n + 1) + c, definite integrals and area under a curve." }
+    ]
+  },
+  {
+    "id": "physics",
+    "title": "Physics",
+    "subject": "physics",
+    "level": "O Level",
+    "chapters": [
+      { "title": "Motion", "notes": "Speed v = d ÷ t, acceleration a = (v − u) ÷ t, distance-time and speed-time graphs, g = 9.8 m/s²." },
+      { "title": "Forces", "notes": "Newton's laws, F = m × a, weight W = m × g, friction, moments (moment = force × perpendicular distance)." },
+      { "title": "Energy, work and power", "notes": "Work done W = F × d, kinetic energy ½mv², potential energy mgh, power P = W ÷ t, efficiency." },
+      { "title": "Pressure", "notes": "Pressure p = F ÷ A, pressure in liquids p = ρgh." },
+      { "title": "Electricity", "notes": "Ohm's law V = I × R, series and parallel circuits, power P = V × I, charge Q = I × t." },
+      { "title": "Waves and light", "notes": "Wave speed v = f × λ, reflection, refraction, n = sin i ÷ sin r, the electromagnetic spectrum." }
+    ]
+  },
+  {
+    "id": "chemistry",
+    "title": "Chemistry",
+    "subject": "chemistry",
+    "level": "O Level",
+    "chapters": [
+      { "title": "Atomic structure", "notes": "Protons, neutrons, electrons, atomic number and mass number, isotopes, electron shells 2, 8, 8." },
+      { "title": "Bonding", "notes": "Ionic bonding (NaCl), covalent bonding (H₂O, CO₂), metallic bonding." },
+      { "title": "Moles and equations", "notes": "Balancing equations like 2H₂ + O₂ → 2H₂O, the mole, moles = mass ÷ molar mass, concentration in mol/dm³." },
+      { "title": "Acids, bases and salts", "notes": "pH scale, neutralisation acid + base → salt + water, indicators." },
+      { "title": "Rates of reaction", "notes": "Effect of temperature, concentration, surface area and catalysts on rate." }
+    ]
+  },
+  {
+    "id": "biology",
+    "title": "Biology",
+    "subject": "biology",
+    "level": "O Level",
+    "chapters": [
+      { "title": "Cells", "notes": "Plant and animal cells, organelles (nucleus, mitochondria, chloroplasts), diffusion and osmosis." },
+      { "title": "Plant nutrition", "notes": "Photosynthesis 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ using light and chlorophyll, limiting factors, leaf structure." },
+      { "title": "Human nutrition", "notes": "Balanced diet, enzymes, the digestive system." },
+      { "title": "Respiration", "notes": "Aerobic respiration glucose + oxygen → carbon dioxide + water + energy, anaerobic respiration." },
+      { "title": "Transport in humans", "notes": "The heart, blood vessels, blood." }
+    ]
+  },
+  {
+    "id": "computer-science",
+    "title": "Computer Science",
+    "subject": "computer science",
+    "level": "O Level",
+    "chapters": [
+      { "title": "Data representation", "notes": "Binary, denary and hexadecimal, converting between them, bits and bytes." },
+      { "title": "Algorithms", "notes": "Flowcharts, pseudocode, linear and binary search, bubble sort, Big O like O(n) and O(n log n)." },
+      { "title": "Programming", "notes": "Variables, selection (IF), iteration (FOR, WHILE), arrays, functions, i++ and i = i + 1." },
+      { "title": "Logic gates", "notes": "AND, OR, NOT, NAND, NOR, XOR, truth tables." },
+      { "title": "Networks", "notes": "LAN and WAN, IP addresses, packets, protocols like HTTP and TCP." }
+    ]
+  },
+  {
+    "id": "english",
+    "title": "English Language",
+    "subject": "english",
+    "level": "O Level",
+    "chapters": [
+      { "title": "Reading comprehension", "notes": "Finding the main idea, inference, writer's purpose, answering in your own words." },
+      { "title": "Summary writing", "notes": "Picking key points, keeping it short, using your own words, word limits." },
+      { "title": "Directed writing", "notes": "Letters, reports, speeches, matching the audience and purpose." },
+      { "title": "Narrative and descriptive writing", "notes": "Planning, paragraphs, vivid vocabulary, show don't tell." },
+      { "title": "Grammar", "notes": "Tenses, subject-verb agreement, punctuation, active and passive voice." }
+    ]
+  }
+]
